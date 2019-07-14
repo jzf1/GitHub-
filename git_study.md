@@ -9,5 +9,13 @@
    GitHub:GitHub上公开的软件源代码全都由Git进行管理。
 
 2. GitHub好处：
+
    1. 版本管理系统、BUG跟踪系统、代码审查工具、邮件列表、IRC等
-   2. 
+
+   2.  Pull Request：开发者在本地对源代码进行更改后，向GitHub中托管的Git仓库请求合并
+
+        
+
+      
+
+   
